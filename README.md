@@ -1,43 +1,139 @@
-Hi 👋 My name is Abraham Jimah
-==============================
+DEV PROFILE BUILDER
+Stand out on Github with a dynamic and
+personalized profile
+Our app assists developers like you in creating visually appealing and professional profiles that highlight your work and skills 🚀. You can quickly and easily create your own personal profile using our simple interface. Furthermore, you don't have to be concerned about the design's visibility in different themes. Because the design of your profile will change depending on the GitHub theme. That's pretty cool 😎, isn't it?
+Consider the following Example 🤓.
+A well-designed profile will not only impress potential employers and clients, but it will also help you stand out in a crowded job market. So, why delay? With our app, you can start creating a beautiful and effective Github profile right away 🥁!
 
-Frontend Developer
-------------------
+For Contribution
+Create Profile
+Dev Profile Builder - Stand out on GitHub with a dynamic and personalized profile | Product Hunt
+👉🏻 See this Blog to Fully Understand How to Use this App Effectively (Must Read)
 
-* 🌍  I'm based in Wa, Ghana
-* ✉️  You can contact me at [devjimah@gmail.com](mailto:devjimah@gmail.com)
-* 🧠  I'm learning React Native (Expo Router)
-* 🤝  I'm open to collaborating on Impactful projects
+Why Us
 
-<a href="https://www.github.com/devjimah" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/devjimah?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a><a href="https://www.x.com/_nerdjemah" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/_nerdjemah?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
-/></a>
+ Simple
+Not only is our app quick and easy to use, but it also simplifies the process of creating a stunning Github profile. You don't have to waste time sifting through different websites or attempting to code your own design because everything is in one place.
 
-### Skills
+ Unique
+Our app distinguishes itself from the competition by providing a variety of customization options that allow you to truly personalise your Github profile. You can create a professional and visually striking profile that reflects your personal style or brand
+
+ Result
+Our app is the best option for creating a beautiful and effective Github profile from an SEO standpoint. You can improve your visibility on search engines and make it easier for recruiters and potential employers to find you by including these keywords and phrases in your profile.
+
+create profile
+
+Personal Details
+Fav Emoji
+👨‍💻
+Full Name
+Abraham jimah zorwi
+Github Username
+devjimah
+Instagram
+_devjimah
+Twitter
+_nerdjemah
+LinkedIn
+https://www.linkedin.com/in/ajzorwi/
+Brief Intro
+Hi there, 
+Jimah here, a talkative who doesn't start convos. 
+Latest Project
+cetawave
+Language and Tools
+Type Language and Tech you use
+(Go to this Page and Fill in the details as Told, Also Visit the Blog)
+html,css,js,react,react-native,tailwind,nextjs,kotlin
+Submit
+Output
+
+Copy this and Paste in Your README.md File.
 
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+                
+
+                    
+
+<h1>👨‍💻 Abraham jimah zorwi</h1>
+<br /> 
+
+                    
+**`Digital Craftsman (Developer / Programmer)`
+
+                    
+
+<p align="left">Hi there, 
+Jimah here, a talkative who doesn't start convos. </p>
+<p align="left"> 
+  <a href="https://github.com/devjimah?tab=repositories&sort=stargazers#gh-light-mode-only">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/devjimah?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
+  
+  <a href="https://github.com/devjimah?tab=repositories&sort=stargazers#gh-dark-mode-only">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/devjimah?color=655489&style=for-the-badge&labelColor=c691e9&logo=star#gh-dark-mode-only"/></a>
+  
+  <a href="https://github.com/devjimah?tab=followers#gh-light-mode-only">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/devjimah?color=2c4954&labelColor=2c3e50&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-light-mode-only"/></a>
+    
+  <a href="https://github.com/devjimah?tab=followers#gh-dark-mode-only">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/devjimah?color=dacc84&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
 </p>
 
+---
+<br />
 
-### Socials
+                    
 
-<p align="left"> <a href="https://www.facebook.com/ajzorwi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/devjimah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/_devjimah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ajzorwi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/_nerdjemah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<h2>Languages and Tools</h2> 
+<p align="left">
+<img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,react,react-native,tailwind,nextjs,kotlin&perline=9"  />
+</p>
+<br />
 
-### Badges
+                    
 
-<b>My GitHub Stats</b>
+<p><a href="https://github.com/devjimah#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjimah&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="devjimah" /></a>
+  <a href="https://github.com/devjimah#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjimah&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="devjimah" /></a>
+</p>
 
-<a href="http://www.github.com/devjimah"><img src="https://github-readme-stats.vercel.app/api?username=devjimah&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="devjimah's GitHub stats" /></a>
+<br />
 
-<a href="http://www.github.com/devjimah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devjimah&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p>&nbsp;<a href="https://github.com/devjimah#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devjimah&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="devjimah" /></a>
+<a href="https://github.com/devjimah#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devjimah&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="devjimah" /></a>
+</p> 
+<br>
+<br />
 
-<a href="http://www.github.com/devjimah"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=devjimah&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p><a href="https://github.com/devjimah#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=devjimah&theme=nightowl#gh-dark-mode-only" alt="devjimah"/></a>
+<a href="https://github.com/devjimah#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=devjimah&theme=vue#gh-light-mode-only" alt="devjimah"/></a></p>
+<br/>
+<br />
 
-<a href="https://github.com/devjimah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjimah&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p><a href="https://github.com/devjimah#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=devjimah&theme=nightowl#gh-dark-mode-only" alt="devjimah" /></a>
+<a href="https://github.com/devjimah#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=devjimah&theme=vue#gh-light-mode-only" alt="devjimah" /></a></p>
+<br/>
 
-<b>Top Repositories</b>
+---
 
-<div width="100%" align="center"><a href="https://github.com/devjimah/dylan-hub" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=devjimah&repo=dylan-hub&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+                    
+
+<h2>My Latest Project</h2> 
+<br />
+<p><a href="https://github.com/devjimah/cetawave#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devjimah&repo=cetawave&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/devjimah/cetawave#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devjimah&repo=cetawave&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<br />
+
+
+                    
+
+<h2>Connect With Me</h2> 
+<p align="left">
+<a href="https://twitter.com/_nerdjemah" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_nerdjemah" /></a>
+<a href="https://instagram.com/_devjimah" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_devjimah" /></a>
+<a href="https://www.linkedin.com/in/ajzorwi/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+</p>
+
+                
+
+            
