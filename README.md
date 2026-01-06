@@ -1,42 +1,8 @@
-
-
-Personal Details
-Fav Emoji
-👨‍💻
-Full Name
-Abraham jimah zorwi
-Github Username
-devjimah
-Instagram
-_devjimah
-Twitter
-_nerdjemah
-LinkedIn
-https://www.linkedin.com/in/ajzorwi/
-Brief Intro
-Hi there, 
-Jimah here, a talkative who doesn't start convos. 
-Latest Project
-cetawave
-Language and Tools
-Type Language and Tech you use
-(Go to this Page and Fill in the details as Told, Also Visit the Blog)
-html,css,js,react,react-native,tailwind,nextjs,kotlin
-Submit
-Output
-
-Copy this and Paste in Your README.md File.
-
-
-                
-
-                    
-
-<h1>👨‍💻 Abraham jimah zorwi</h1>
+<h1>👨‍💻 Abraham Jimah Zorwi</h1>
 <br /> 
 
                     
-**`Digital Craftsman (Developer / Programmer)`
+*`Digital Craftsman (Developer / Programmer)`*
 
                     
 
@@ -63,7 +29,7 @@ Jimah here, a talkative who doesn't start convos. </p>
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,react,react-native,tailwind,nextjs,kotlin&perline=9"  />
+<img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,kotlin,nodejs,figma&perline=9"  />
 </p>
 <br />
 
@@ -110,7 +76,3 @@ Jimah here, a talkative who doesn't start convos. </p>
 <a href="https://instagram.com/_devjimah" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_devjimah" /></a>
 <a href="https://www.linkedin.com/in/ajzorwi/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
-
-                
-
-            
