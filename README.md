@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a better me<br>👯 I’m looking to collaborate on innovative projects<br>🤝 I’m looking for help with DSA <br>🌱 I’m currently learning DSA and industry grade JavaScript<br>💬 Ask me about why I chose software development and not medicine<br>⚡ Fun fact: I am talkative but I don't start convos
+I build with scalability in mind, I am a diamond in the rough.
 
 
 ## 🌐 Socials:
